@@ -1,0 +1,6 @@
+battery=32
+if battery<20:
+    mode='save'
+else:
+    mode='normal'
+print(mode)

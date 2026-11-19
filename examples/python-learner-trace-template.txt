@@ -1,0 +1,9 @@
+Complete for BOTH snippets.
+
+Condition tested:
+Truth value and why:
+Selected branch / statement:
+Relevant variable state before:
+Relevant variable state after:
+Exact printed output:
+How the trace explains the output:

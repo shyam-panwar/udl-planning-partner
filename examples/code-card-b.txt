@@ -1,0 +1,9 @@
+minutes=45
+points=2
+if minutes>=30:
+    points=points+3
+if points>4:
+    message='goal met'
+else:
+    message='keep going'
+print(points,message)
